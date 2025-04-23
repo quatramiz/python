@@ -7,6 +7,7 @@ if (usernameing) == ("ass") :
 elif (usernameing) == ("ben"):
       good_deeds = input("how many good deeds did you do this week ?")
 
+else:print(" welocme nigger")
 
     
 if (good_deeds) == 31:
